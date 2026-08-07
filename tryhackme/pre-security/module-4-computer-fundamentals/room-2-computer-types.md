@@ -49,6 +49,8 @@ Even TV Remote Control as well
 
 I used to think that these had like some lower form of a computer in them like not a proper computer but like some basic parts of it especially in a calculator, oven, watches, keyboard and mouse
 
+Now whenever I am passing through an automatic door, going into a lift, using an escalator or drinking water out of my water bottle I will remember that all of these things have computers in them
+
 ## How this connects to real-world security
 
 This helps us to know that there are different type of computers and each have their own specific build and different ways of booting so we need to learn how to secure all of these in all the different ways
